@@ -1,0 +1,11 @@
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Release\VKRShevelev.exe.config
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Release\VKRShevelev.exe
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Release\VKRShevelev.pdb
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.Form1.resources
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.Properties.Resources.resources
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.exe
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.pdb
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Release\VKRShevelev.exe.config

@@ -1,0 +1,22 @@
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.exe.config
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.exe
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.pdb
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.AssemblyReference.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.Form1.resources
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.Properties.Resources.resources
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.GenerateResource.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.exe
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.pdb
+C:\Users\Андрей\source\repos\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.exe.config
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.exe.config
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.exe
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\bin\Debug\VKRShevelev.pdb
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.AssemblyReference.cache
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.exe.config
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.Form1.resources
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.Properties.Resources.resources
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.GenerateResource.cache
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.csproj.CoreCompileInputs.cache
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.exe
+C:\Users\Егор\Desktop\Диплом\ВКР ИТОГ\гитхаб\VKRShevelev\VKRShevelev\VKRShevelev\obj\Debug\VKRShevelev.pdb
